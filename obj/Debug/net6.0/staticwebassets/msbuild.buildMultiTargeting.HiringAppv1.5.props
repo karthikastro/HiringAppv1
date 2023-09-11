@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HiringAppv1.5.props" />
+</Project>
